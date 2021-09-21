@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+D:\Users\mmr94\Documents\Alura\Arquitetura e Design de Projetos Java\DesignPatterns2\.metadata\.plugins\org.eclipse.jdt.core
