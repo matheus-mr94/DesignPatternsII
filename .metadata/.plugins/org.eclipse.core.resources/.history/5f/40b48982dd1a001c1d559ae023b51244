@@ -1,0 +1,21 @@
+package br.com.alura.loja.orcamento;
+
+import br.com.alura.loja.http.HttpAdapter;
+
+public class RegistroDeOrcamento {
+
+	private HttpAdapter http;
+
+	public RegistroDeOrcamento(HttpAdapter http) {
+		super();
+		this.http = http;
+	}
+
+	public void registrar(Orcamento orcamento) {
+		// chamada HTTP para a API externa
+		// URL Connection
+		// Http Client
+		// Lib Rest
+	}
+
+}
