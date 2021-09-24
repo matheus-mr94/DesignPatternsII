@@ -1,2 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.net.URL"/>
+    <fullyQualifiedTypeName name="java.net.MalformedURLException"/>
+    <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+    <fullyQualifiedTypeName name="java.net.URLConnection"/>
+    <fullyQualifiedTypeName name="br.com.alura.loja.orcamento.RegistroDeOrcamento"/>
+    <fullyQualifiedTypeName name="br.com.alura.loja.http.JavaHttpClient"/>
+    <fullyQualifiedTypeName name="br.com.alura.loja.imposto.ISS"/>
+    <fullyQualifiedTypeName name="br.com.alura.loja.imposto.CalculadoraDeImpostos"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="br.com.alura.loja.orcamento.Orcamento"/>
+    <fullyQualifiedTypeName name="br.com.alura.loja.orcamento.ItemOrcamento"/>
+    <fullyQualifiedTypeName name="java.math.BigDecimal"/>
+</qualifiedTypeNameHistroy>
